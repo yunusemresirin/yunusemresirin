@@ -28,8 +28,6 @@ Currently pursuing my M.Sc. in Computer Science, I am passionate about building 
 ![ROS](https://img.shields.io/badge/-ROS-22314E?logo=ros&logoColor=fff)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=333)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)
 
 - **AI & ML:** Deep learning, reinforcement learning, computer vision, NLP
 - **Robotics:** Autonomous systems, robot control, SLAM, simulation
@@ -40,13 +38,14 @@ Currently pursuing my M.Sc. in Computer Science, I am passionate about building 
 
 ### 💼 Previous Experience
 
-**Agile Tester**  
-→ Tested web-applications by automating UI-tests with ![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff)
-→ Manually detected and verified defects
-→ Manually tested for new releases and updates
+**Agile Tester** 
+- Tested web-applications by automating UI-tests with ![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff)
+- Manually detected and verified defects
+- Manually tested for new releases and updates
+
 **Warehouse Associate**
-→ Management and Control of inventory
-→ Warehousing
+- Management and Control of inventory
+- Warehousing
 
 ---
 
