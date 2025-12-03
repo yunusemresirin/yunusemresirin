@@ -20,9 +20,9 @@ Currently pursuing my M.Sc. in Computer Science, I am passionate about building 
 
 ## 💡 Skills & Technologies
 
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)]
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)]
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)]
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=fff)
 ![ROS](https://img.shields.io/badge/-ROS-22314E?logo=ros&logoColor=fff)
@@ -40,12 +40,13 @@ Currently pursuing my M.Sc. in Computer Science, I am passionate about building 
 
 ### 💼 Previous Experience
 
-**IoT Developer – Flexli Technologies**  
-→ Programmed microcontrollers & built Golang-based telemetry systems for autonomous robots.  
-**Data Analyst – Redwood Algorithms**  
-→ Analyzed and delivered insights from social media datasets (>5M rows).  
-**Data Engineer Intern – Empower COE**  
-→ Developed NLP-ready datasets from REST APIs and assisted in A/B testing BERT models.
+**Agile Tester**  
+→ Tested web-applications by automating UI-tests with ![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff)
+→ Manually detected and verified defects
+→ Manually tested for new releases and updates
+**Warehouse Associate**
+→ Management and Control of inventory
+→ Warehousing
 
 ---
 
@@ -66,4 +67,4 @@ Hochschule Bonn-Rhein-Sieg — *Graduated (2025)*
 
 ---
 
-_Thanks for stopping by! Don’t hesitate to connect or check out my latest projects below._
+_Thanks for stopping by! Don’t hesitate to connect with me on LinkedIn or check out my latest projects below._
