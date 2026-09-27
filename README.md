@@ -1,69 +1,82 @@
-# Hi there, I'm Yunus Emre Sirin 👋
+# Hi, I'm Yunus Emre Sirin 👋
 
-🎓 Master's Student in Computer Science @ Hochschule Bonn-Rhein-Sieg  
-📍 Based in Cologne, NRW, Germany  
+I'm a **Software Systems Engineer** currently working at the **DLR Institute for AI Safety** while pursuing my **M.Sc. in Computer Science at Hochschule Bonn-Rhein-Sieg**.
 
-Welcome to my GitHub! I'm a Software Systems Engineer with 2+ years of hands-on experience developing, building and testing software applications. I specialize in bringing intelligence to the edge — whether that’s programming basic web applications, developing real-time ML pipelines, or deploying autonomous navigation systems.
+Most of my work sits somewhere between software architecture and implementation. I like figuring out where responsibilities belong, how components should talk to each other, and how a system can stay understandable once it grows beyond the first few endpoints.
 
-Currently pursuing my M.Sc. in Computer Science, I am passionate about building smart systems that solve real-world problems using a mix of hardware and software.
+On paper, that means **Python, FastAPI, TypeScript, React, Java, C++, Docker and ROS 2**. In practice, I spend a lot of time thinking about interfaces, service boundaries, configuration, testing and how to make software easier to extend without quietly coupling everything together.
 
----
+## What I'm working on
 
-## 🚀 About Me
+At DLR, I work on **service-based software architecture** with a focus on modular components, configuration-driven behavior and stable interfaces. That includes building around shared service concepts, connecting API and CLI layers to the same underlying functionality, and keeping individual components as independent and testable as possible.
 
-- **🔬 Researcher & Engineer:** Experienced in AI, robotics, and control systems.
-- **👨‍💻 Developer:** Skilled in Java, Java-/Typescript, Python, C++, ROS, and more.
-- **🎯 Problem Solver:** Driven by curiosity and the challenge of solving complex, real-world problems.
-- **🌱 Lifelong Learner:** Continuously learning and experimenting with state-of-the-art technologies.
+I'm also exploring **Model Context Protocol (MCP)** and LLM integration, particularly how AI-facing tools, resources and prompts can fit into existing software systems without turning the architecture into a collection of special cases.
 
----
+Outside of that, I keep coming back to distributed systems, developer tooling, autonomous systems and software verification. Recently, aerospace software has become another area I'm increasingly interested in — mostly because complex systems become much more interesting when reliability is part of the problem, not an afterthought.
 
-## 💡 Skills & Technologies
+## Tools I use
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=fff)
-![ROS](https://img.shields.io/badge/-ROS-22314E?logo=ros&logoColor=fff)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?logo=ros&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-- **AI & ML:** Deep learning, reinforcement learning, computer vision, NLP
-- **Robotics:** Autonomous systems, robot control, SLAM, simulation
-- **Software:** Algorithms and data processing
-- **Other:** LaTeX, Bash, SQL, and more
+A few areas I work with regularly:
 
----
+- **Architecture:** service-oriented and microservice architectures, modularity, API design, configuration-driven systems
+- **Backend:** Python, FastAPI, Java, Node.js / Express, REST APIs
+- **Frontend:** TypeScript, React, Vite, Material UI, Angular
+- **AI & tooling:** MCP, LLM integration, PyTorch, developer tooling
+- **Robotics:** ROS 2, navigation, localization, mapping and simulation
+- **Quality & delivery:** pytest, Playwright, unit/integration testing, Docker, CI/CD, Git
 
-### 💼 Previous Experience
+## Selected work
 
-**Agile Tester** 
-- Tested web-applications by automating UI-tests with ![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff)
-- Manually detected and verified defects
-- Manually tested for new releases and updates
+### [WirSchiffenDas](https://github.com/yunusemresirin/WirSchiffenDas)
+A microservice-based proof of concept for diesel-engine configuration quality analysis.
 
-**Warehouse Associate**
-- Management and Control of inventory
-- Warehousing
+Six backend services collaborate through a choreographed analysis flow, with resilience handled through circuit breakers. A React + Material UI frontend exposes service health, analysis state and results without taking over backend orchestration.
 
----
+**Java · Microservices · Resilience4j · React · TypeScript · Docker**
 
-### 📚 Education
+### [ERP System for Personnel & Shift Planning](https://github.com/yunusemresirin/RestOfGibrAlda)
+Built as part of the *Integration Architectures* module at Hochschule Bonn-Rhein-Sieg.
 
-**M.Sc. in Computer Science**  
-Hochschule Bonn-Rhein-Sieg — *March 2025 – Present*  
+The project focuses on a modular architecture for personnel management, shift planning and payroll logic, including integration between system components and persistent data management.
 
-**B.Sc. in Business Information System, specialized in Complex Software Systems**  
-Hochschule Bonn-Rhein-Sieg — *Graduated (2025)*
+**Node.js · Express · Angular · Integration Patterns · Software Architecture**
 
----
-### 📫 Let's Connect
+### [Robile Navigation & SLAM](https://github.com/yunusemresirin/amr-ss25-projects-stark_syndicate_m42)
+A ROS 2 project around autonomous mobile robot navigation.
 
-📧 Email: [Yunus.Emre.Sirin@outlook.de](mailto:Yunus.Emre.Sirin@outlook.de)  
-🔗 LinkedIn: [Yunus Emre Sirin](www.linkedin.com/in/yunus-emre-şirin-ca1913101999)  
-💻 GitHub: [yunusemresirin](https://github.com/yunusemresirin)
+The work combines **A\* global planning**, **potential-field navigation**, **Monte Carlo localization**, automated mapping and environment exploration.
 
----
+**ROS 2 · C++/Python · SLAM · Autonomous Navigation**
 
-_Thanks for stopping by! Don’t hesitate to connect with me on LinkedIn or check out my latest projects below._
+## How I tend to work
+
+I usually spend more time on boundaries than on frameworks: between services, between modules, and between what a feature appears to need and what the system actually needs.
+
+I prefer understanding a system before changing it. Not because everything needs to be perfect, but because a lot of architectural complexity starts with solving the visible problem too quickly.
+
+Still learning, still building, and generally more interested in understanding systems than collecting technologies.
+
+## Education
+
+**M.Sc. Computer Science**  
+Hochschule Bonn-Rhein-Sieg · 2025 – Present
+
+**B.Sc. Business Information Systems**  
+Hochschule Bonn-Rhein-Sieg · Graduated 2025
+
+## Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yunus_Emre_Sirin-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yunus-emre-sirin/)
+[![GitHub](https://img.shields.io/badge/GitHub-yunusemresirin-181717?logo=github&logoColor=white)](https://github.com/yunusemresirin)
+
+📧 [Yunus.Emre.Sirin@outlook.de](mailto:Yunus.Emre.Sirin@outlook.de)
